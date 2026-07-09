@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/SauravKumar09/DSA_Practice/tree/master/0242-valid-anagram) |
+| [0394-decode-string](https://github.com/SauravKumar09/DSA_Practice/tree/master/0394-decode-string) |
 ## Sorting
 |  |
 | ------- |
@@ -43,4 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/SauravKumar09/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
+## Stack
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/SauravKumar09/DSA_Practice/tree/master/0394-decode-string) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/SauravKumar09/DSA_Practice/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
